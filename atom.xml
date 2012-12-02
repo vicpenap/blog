@@ -4,7 +4,7 @@
   <title><![CDATA[Víctor en Ámsterdam]]></title>
   <link href="http://blog.victorpena.es/atom.xml" rel="self"/>
   <link href="http://blog.victorpena.es/"/>
-  <updated>2012-11-30T22:29:30+01:00</updated>
+  <updated>2012-12-02T22:04:01+01:00</updated>
   <id>http://blog.victorpena.es/</id>
   <author>
     <name><![CDATA[Víctor]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Foto]]></title>
+    <link href="http://blog.victorpena.es/2012/12/02/foto/"/>
+    <updated>2012-12-02T22:01:00+01:00</updated>
+    <id>http://blog.victorpena.es/2012/12/02/foto</id>
+    <content type="html"><![CDATA[<p><a href='http://www.flickr.com/photos/victorpena/8238917238/'><img src='http://farm9.static.flickr.com/8201/8238917238_e8a9ebc44d_b.jpg' title='Singel' alt='Singel'/></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[So far, so good]]></title>
