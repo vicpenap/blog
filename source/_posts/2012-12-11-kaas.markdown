@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Kaas"
+date: 2012-12-11 20:15
+comments: true
+categories: 
+---
+
+Hai quince días marchou do equipo un americano que estaba de prácticas. Cando estaba recollendo, un compañeiro holandés díxolle que tiña un detalle para el e deulle un bo anaco de queixo, ben grande. Foi un detalle bonito, e o americano dende logo quedou contento e sorprendido (gratamente, por suposto).
+
+Máis tarde, cando estaba eu dando a xornada por rematada e recollendo para marchar, o mesmo holandés díxome que tamén tiña un detalle para min, e sacou outro gran anaco de queixo. Toma!!! Que contento me puxen e que sorprendido (tamén gratamente, por suposto). Trátase dun queixo [Beemster](http://www.beemster.us/), de Gouda, vello, creo recordar que de 3 anos, ou algo máis. Excelso.
+
+{% img /assets/images/kaas.jpg %}
+
+Quen me veña facer unha visita pode probalo. Aviso, levo bo ritmo, xa comín máis da metade.
