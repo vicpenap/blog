@@ -18,3 +18,4 @@ Moi bonito, si, pero quizais o que máis me chamou a atención é o seu valor: t
 
 [En flickr](http://www.flickr.com/photos/victorpena/sets/72157632251194805/) subín algunhas fotos do desfile e tamén [un vídeo](http://www.flickr.com/photos/victorpena/8275253305/in/set-72157632251194805). [En internet](http://www.amsterdamlightfestival.com/en/programma/2012-2013/christmas-canal-parade/) comentan un pouquiño en que consiste o evento.
 
+Por certo, a entrada da bicicleta queda para máis adiante. Se Ámsterdam non me volve sorprender, claro.
