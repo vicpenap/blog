@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Europa"
+date: 2013-02-07 23:37
+comments: true
+categories: 
+---
+
+Esta fin de semana estaban meu irmán e miña nai en Bruxelas, así que aproveitei para achegarme. Comprei un billete de tren Fyra que por 50€ conectaba Ámsterdam coa capital europea. Isto é Europa, pensei mentres o mercaba, feliz e contento.
+
+Nada máis lonxe da realidade. Ao chegar á estación enteireime de que o tren non ía saír e no seu defecto tiña que... Buscarme a vida, así de claro. Na megafonía indicaban que collésemos un tren nacional destino Jankel (así entendín; máis tarde souben que se trataba de Roosendaal) e alí coller outro, dirección Bruxelas.
+
+Despois de atopar que tren era ese a Roosendaal pensei que non era tan grave. Pero por desgraza penseino demasiado rápido. O tren levoume de ruta por media Holanda, concretamente pola metade do sur. A Haia e Rotterdam foron as cidades máis grandes polas que pasei, pero non as únicas. Das outras esquecín xa o nome.
+
+Cheguei a Roosendaal aproximadamente dúas horas despois. Alí, despois da sorpresa que me causou atoparme nunha estación pequena e baleira, moi pouco apropiada para ser un enlace secundario con Bruxelas, preguntei que tren tiña que coller, onde e cando. Tanto non souberon contestar. Si que tiña que coller o que estaba xusto enfronte e que saía en media hora, pero que ese só me levaba a Antwerpen, en Bélxica. Alí tería que buscar outro para chegar a Bruxelas. Basicamente estaba a coller un tren para cruzar a fronteira. Durante o camiño a Antwerpen, de aproximadamente 40 minutos, encendeuseme a bombilla pensando que ese nome era moi parecido a Amberes, e que se dende alí había trens directos a Bruxelas, era probable que efectivamente fose Amberes. Acertei. Vaia se se aprende con tanto tempo libre.
+
+Quedei abraiado coa estación de Amberes, preciosa. Atopei por alí un cartel con horarios a Bruxelas no que dicían que o seguinte, en media hora (coa tontería levo xa 3 horas e 40 minutos), xa me levaba directo. Aproveitei ese tempo para asomar a rúa e darlle unha volta a estación.
+
+Cheguei finalmente a Bruxelas cun retraso de tres horas e facendo dous transbordos. Podía ser peor, podía non ter chegado.
+
+Agora estou facendo o traxecto inverso, sentado no tren que cruza a fronteira. En Amberes dixéronme que os Fyra son moi malos, ata perigosos, e que non os debería coller nunca. Relacionaron esta falta de calidade coa súa procedencia, aparentemente italiana (isto último despois de preguntarme se eu era italiano). Para darme aínda máis dúbidas sobre se isto é Europa ou non, os do meu lado están asomados pola ventá, cuspindo. Espérame unha viaxe entretida.
+
+{% img /assets/images/manneken.jpg %}
