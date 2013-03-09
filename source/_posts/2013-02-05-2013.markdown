@@ -35,4 +35,4 @@ O asunto é que un amigo da residencia universitaria da Coruña, que non vía de
 
 Por se fose pouco, hai dúas fins de semana veu outro amigo máis, tamén da residencia e tamén sen velo eu dende había moito tempo, e de repente atopeime revivindo recordos de hai sete anos. Ademais tivemos moita sorte, porque os canais estaban conxelados por aquel entón, e un dos días nevou moito e quedaron brancos, completamente cubertos de neve. Moi, moi bonito. Por se acaso, adxunto imaxe.
 
-{% img /assets/images/Canal_Nevado.jpg %}
+{% flickr_image 8451020929 b %}
