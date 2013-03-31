@@ -4,7 +4,7 @@
   <title><![CDATA[Víctor en Ámsterdam]]></title>
   <link href="http://blog.victorpena.es/atom.xml" rel="self"/>
   <link href="http://blog.victorpena.es/"/>
-  <updated>2013-03-15T19:45:35+01:00</updated>
+  <updated>2013-03-31T22:21:47+02:00</updated>
   <id>http://blog.victorpena.es/</id>
   <author>
     <name><![CDATA[Víctor]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[One second every day (Marzo)]]></title>
+    <link href="http://blog.victorpena.es/2013/03/31/one-second-every-day-marzo/"/>
+    <updated>2013-03-31T22:19:00+02:00</updated>
+    <id>http://blog.victorpena.es/2013/03/31/one-second-every-day-marzo</id>
+    <content type="html"><![CDATA[<p>Este mes moi axiña pasou, e o vídeo deste mes é igual de breve. Xuraría que o marzo deste ano foi máis pequeno do normal.</p>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/rUCymsAaSo0?rel=0" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Concerto]]></title>
