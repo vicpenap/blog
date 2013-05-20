@@ -3,7 +3,7 @@ layout: post
 title: "One second every day (Febreiro)"
 date: 2013-03-02 17:04
 comments: true
-categories: 
+categories: [One Second Every Day]
 ---
 
 O 10 de febreiro vin en [TED](http://www.ted.com/) un proxecto bautizado como [One Second Every Day](http://www.ted.com/talks/cesar_kuriyama_one_second_every_day.html), que consiste en gravar cada día un vídeo dun segundo de duración. O proxecto xurdiu debido á mala memoria do seu autor, e como eu tamén coxeo dese mesmo pé, pareceume especialmente útil.

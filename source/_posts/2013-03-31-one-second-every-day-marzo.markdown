@@ -3,7 +3,7 @@ layout: post
 title: "One second every day (Marzo)"
 date: 2013-03-31 22:19
 comments: true
-categories: 
+categories: [One Second Every Day]
 ---
 
 Este mes moi axiña pasou, e o vídeo deste mes é igual de breve. Xuraría que o marzo deste ano foi máis pequeno do normal.
