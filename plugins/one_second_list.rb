@@ -1,17 +1,14 @@
 module Jekyll
-  class CategoryListTag < Liquid::Tag
-    def render(context)
-      html = ""
-      categories = context.registers[:site].categories.keys
-      categories.sort.each do |category|
-        posts_in_category = context.registers[:site].categories[category].size
-        category_dir = context.registers[:site].config['category_dir']
-        category_url = File.join(category_dir, category.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase)
-        html << "<li class='category'><a href='/#{category_url}/'>#{category} (#{posts_in_category})</a></li>\n"
-      end
-      html
+    class CategoryListTag < Liquid::Tag
+        def render(context)
+            html = ""
+            category = "One Second Every Day"
+            context.registers[:site].categories[category].sort{ |a, b|  b <=> a }.each do |post|
+                html << "<li class='post'><a href='%s'>%s</a></li>\n" % [ post.url , post.data["title"] ]
+            end
+            html
+        end
     end
-  end
 end
 
 Liquid::Template.register_tag('one_second_list', Jekyll::CategoryListTag)
