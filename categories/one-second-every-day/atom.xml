@@ -4,7 +4,7 @@
   <title><![CDATA[Category: One Second Every Day | Víctor en Ámsterdam]]></title>
   <link href="http://blog.victorpena.es/categories/one-second-every-day/atom.xml" rel="self"/>
   <link href="http://blog.victorpena.es/"/>
-  <updated>2013-06-01T21:00:51+02:00</updated>
+  <updated>2013-07-07T20:39:23+02:00</updated>
   <id>http://blog.victorpena.es/</id>
   <author>
     <name><![CDATA[Víctor]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[One second every day (Xunho)]]></title>
+    <link href="http://blog.victorpena.es/2013/07/07/one-second-every-day-xuno/"/>
+    <updated>2013-07-07T20:34:00+02:00</updated>
+    <id>http://blog.victorpena.es/2013/07/07/one-second-every-day-xuno</id>
+    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://blog.victorpena.es//www.youtube.com/embed/c6bkIFLEQAM?rel=0" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[One second every day (Maio)]]></title>
