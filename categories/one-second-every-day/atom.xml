@@ -4,7 +4,7 @@
   <title><![CDATA[Category: One Second Every Day | Víctor en Ámsterdam]]></title>
   <link href="http://blog.victorpena.es/categories/one-second-every-day/atom.xml" rel="self"/>
   <link href="http://blog.victorpena.es/"/>
-  <updated>2013-07-07T20:47:03+02:00</updated>
+  <updated>2013-08-16T23:32:01+02:00</updated>
   <id>http://blog.victorpena.es/</id>
   <author>
     <name><![CDATA[Víctor]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[One second every day (Xullo)]]></title>
+    <link href="http://blog.victorpena.es/2013/08/16/one-second-every-day-xullo/"/>
+    <updated>2013-08-16T23:30:00+02:00</updated>
+    <id>http://blog.victorpena.es/2013/08/16/one-second-every-day-xullo</id>
+    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://blog.victorpena.es//www.youtube.com/embed/PpthIm49zSc?rel=0" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[One second every day (Xunho)]]></title>
@@ -51,22 +61,6 @@
     <content type="html"><![CDATA[<p>Este mes moi axiña pasou, e o vídeo deste mes é igual de breve. Xuraría que o marzo deste ano foi máis pequeno do normal.</p>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/rUCymsAaSo0?rel=0" frameborder="0" allowfullscreen></iframe>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[One second every day (Febreiro)]]></title>
-    <link href="http://blog.victorpena.es/2013/03/02/one-second-every-day-febreiro/"/>
-    <updated>2013-03-02T17:04:00+01:00</updated>
-    <id>http://blog.victorpena.es/2013/03/02/one-second-every-day-febreiro</id>
-    <content type="html"><![CDATA[<p>O 10 de febreiro vin en <a href="http://www.ted.com/">TED</a> un proxecto bautizado como <a href="http://www.ted.com/talks/cesar_kuriyama_one_second_every_day.html">One Second Every Day</a>, que consiste en gravar cada día un vídeo dun segundo de duración. O proxecto xurdiu debido á mala memoria do seu autor, e como eu tamén coxeo dese mesmo pé, pareceume especialmente útil.</p>
-
-<p>De primeiras un segundo pode parecer moi pouco tempo, sobre todo nos días nos que se fai algo máis interesante que de costume. Porén, a idea do proxecto non é capturar todo o evento, senón espertar os recordos a través da imaxe.</p>
-
-<p>Este é o primeiro mes que o fago, aínda que como me enteirei tarde, faltan os primeiros días.</p>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/06h08w6Kns4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>
