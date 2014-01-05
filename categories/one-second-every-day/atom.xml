@@ -4,7 +4,7 @@
   <title><![CDATA[Category: One Second Every Day | Víctor en Ámsterdam]]></title>
   <link href="http://blog.victorpena.es/categories/one-second-every-day/atom.xml" rel="self"/>
   <link href="http://blog.victorpena.es/"/>
-  <updated>2013-08-16T23:32:01+02:00</updated>
+  <updated>2014-01-05T19:44:55+01:00</updated>
   <id>http://blog.victorpena.es/</id>
   <author>
     <name><![CDATA[Víctor]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[One second every day (Agosto)]]></title>
+    <link href="http://blog.victorpena.es/2014/01/05/one-second-every-day-agosto/"/>
+    <updated>2014-01-05T19:30:00+01:00</updated>
+    <id>http://blog.victorpena.es/2014/01/05/one-second-every-day-agosto</id>
+    <content type="html"><![CDATA[<iframe width="420" height="315" src="http://blog.victorpena.es//www.youtube.com/embed/rPXwah8THdU?rel=0" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[One second every day (Xullo)]]></title>
@@ -49,18 +59,6 @@
     <updated>2013-05-03T18:46:00+02:00</updated>
     <id>http://blog.victorpena.es/2013/05/03/one-second-every-day-abril</id>
     <content type="html"><![CDATA[<iframe width="560" height="315" src="http://www.youtube.com/embed/fH7ppWsjTrA?rel=0" frameborder="0" allowfullscreen></iframe>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[One second every day (Marzo)]]></title>
-    <link href="http://blog.victorpena.es/2013/03/31/one-second-every-day-marzo/"/>
-    <updated>2013-03-31T22:19:00+02:00</updated>
-    <id>http://blog.victorpena.es/2013/03/31/one-second-every-day-marzo</id>
-    <content type="html"><![CDATA[<p>Este mes moi axiña pasou, e o vídeo deste mes é igual de breve. Xuraría que o marzo deste ano foi máis pequeno do normal.</p>
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/rUCymsAaSo0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>
