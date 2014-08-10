@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Salsa"
+date: 2014-08-10 12:32
+comments: true
+categories: 
+---
+
+{% img /assets/images/hamburgo.jpg %}
+
+Fun encontrar na salsa a excusa perfecta para viaxar. Cando teño ganas de visitar unha cidade, pero non teño claro en que datas ir, miro cando hai congreso de salsa. Así fixen con Montreal e Berlín. Primeiro antollo de cidade, logo escoller as datas en base ao congreso.
+
+O preocupante é que a última vez fun un paso máis lonxe e fíxeno ao revés. Vin anunciado un congreso, cun banda que me gusta tocando en directo, e preguntei a algún amigo se pagaba a pena ir. E despois mirei onde era, e resultou ser Hamburgo. Quizais empece a ser excesiva tanta devoción... Pero cando menos é sana (non se consola quen non quere).
+
+E alí fun hai dúas semanas, a Hamburgo, outra Venecia do norte (igual ese tamén é un bo criterio, visitar todas as Venecias). E que calor pasei, non baixamos de vinte moitos graos en toda a fin de semana. Por sorte había na praza do concello unha feira de produtos de Stuttgart onde servían comidas e bebidas típicas, co que pasei bastante tempo refrescándome con viño e cervexa.
+
+O congreso, tan bo como me comentaban os meus amigos. Tanto, que o sábado volvín ao hotel ás cinco da mañá, cando xa estaba saíndo o sol.
+
+{% img /assets/images/hamburgo_congreso.jpg %}
